@@ -18,6 +18,11 @@
   },
   "author": "j.yangf",
   "license": "MIT",
+  "homepage": "https://github.com/foxfamily/foxpage-component-antd",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/foxfamily/foxpage-component-antd"
+  },
   "workspaces": [
     "packages/*"
   ],

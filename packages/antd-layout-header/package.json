@@ -13,6 +13,12 @@
   "publishConfig": {
     "access": "public"
   },
+  "homepage": "https://github.com/foxfamily/foxpage-component-antd",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/foxfamily/foxpage-component-antd",
+    "directory": "packages/antd-layout-header"
+  },
   "scripts": {
     "build": "npm run build:lib & npm run build:es & npm run build:foxpage",
     "build:foxpage": "foxpage-cmpt build --foxpage --no-zip-fox",
