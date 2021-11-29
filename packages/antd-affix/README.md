@@ -1,0 +1,8 @@
+# AntdAffix
+
+## Info
+
+## Usage
+
+```ts
+```

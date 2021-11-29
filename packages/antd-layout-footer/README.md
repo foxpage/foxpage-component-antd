@@ -1,0 +1,8 @@
+# AntdLayoutFooter
+
+## Info
+
+## Usage
+
+```ts
+```
