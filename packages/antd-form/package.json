@@ -1,6 +1,6 @@
 {
   "name": "@fox-design/antd-form",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "foxpage component",
   "keywords": [
     "foxpage",
@@ -34,9 +34,9 @@
     "react-dom": "^16.8.0"
   },
   "devDependencies": {
-    "@fox-design/antd-button": "*",
-    "@fox-design/antd-form-item": "^0.0.2",
-    "@fox-design/antd-input": "*"
+    "@fox-design/antd-button": "^0.1.0",
+    "@fox-design/antd-form-item": "^0.1.0",
+    "@fox-design/antd-input": "^0.1.0"
   },
   "sideEffects": [
     "*.css",
