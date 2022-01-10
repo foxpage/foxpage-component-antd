@@ -13,10 +13,10 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/foxfamily/foxpage-component-antd",
+  "homepage": "https://github.com/foxpage/foxpage-component-antd",
   "repository": {
     "type": "git",
-    "url": "https://github.com/foxfamily/foxpage-component-antd",
+    "url": "https://github.com/foxpage/foxpage-component-antd",
     "directory": "packages/antd-button"
   },
   "scripts": {
